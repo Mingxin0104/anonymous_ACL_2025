@@ -28,7 +28,7 @@ def feature_extractor():
     net = C3D(487)
     print('net', net)
     # 加载预训练模型并调整最后一层
-    net.load_state_dict(torch.load('/sda/home/lixusheng/FakeSV/code/utils/C3D/c3d.pickle'))
+    net.load_state_dict(torch.load(''))
     if RUN_GPU:
         net.cuda(0)
     net.eval()

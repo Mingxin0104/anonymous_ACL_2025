@@ -8,7 +8,7 @@ import torch
 from run import Run
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--model_name', default='SVFEND', help='Baselines/SVFEND/FANVM/C3D/VGG/Bbox/Vggish/Bert/TextCNN/Comments/TikTec')
+parser.add_argument('--model_name', default='SVFEND', help='/SVFEND/FANVM/C3D/VGG/Bbox/Vggish/Bert/TextCNN/Comments/TikTec')
 parser.add_argument('--mode_eval', default= 'cv', help='nocv/cv/temporal')
 parser.add_argument('--fold', type=int,help='needed when model_eval=nocv') 
 
