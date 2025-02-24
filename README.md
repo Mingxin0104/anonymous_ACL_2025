@@ -56,7 +56,7 @@ We collected 4463 videos from four platforms: Douyin, Kuaishou, BiliBili, and Yo
 
 (b)Economy: The video clip showcases the Bitcoin related interface, financial data and news, as well as possible financial operation interfaces. These contents are all related to the financial field, indicating that these videos are discussing financial related topics and can be classified as financial videos.
 
-![img](file:///C:\Users\hp\AppData\Local\Temp\ksohtml21672\wps58.jpg) 
+![img](file:///https://github.com/Mingxin0104/anonymous_ACL_2025/blob/main/images/economy.png)
 
 (c)Society: The video shows a vehicle with text written on it, surrounded by some people moving around. There are signs and text on the vehicle, which may be a community service vehicle. These reports on social events based on their impact can be classified as social categories.
 
