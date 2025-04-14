@@ -1,6 +1,6 @@
 # **Identification of fraudulent methods**
 
-If there are the following characteristics, we will consider the video to be false:
+If there are the following characteristics, we will consider the video to be fake:
 
 1. Factual falsification:
 
