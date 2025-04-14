@@ -119,6 +119,4 @@ In the dataset, the structure of each corpus is roughly the same, mainly compose
 
 19.Comment likes count (‘count_video_forwards’):The number of likes received by a corresponding comment can measure the popularity or influence of a single comment.
 
-20.Comment Time (‘publish_time’):Recording the specific time of comment posting and presenting it in the form of timestamps can help analyze the timeliness of comment activities.
-
  
